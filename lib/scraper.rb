@@ -38,4 +38,4 @@ end
 
 #Scraper.new.get_page
 
-Scrapper.new.print_courses
+Scraper.new.print_courses
